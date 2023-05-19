@@ -1,0 +1,22 @@
+    [
+        {
+            "diagnostic": "User is Registered?",
+            "solution": "Request user to be Registered"
+        },
+        {
+            "diagnostic": "user is disabled?",
+            "solution": "Activate user in backoffice"
+        },
+        {
+            "diagnostic": "user is disabled?",
+            "solution": "Ask user to reactivate on app"
+        },
+        {
+            "diagnostic": "card is disabled?",
+            "solution": "Request user to register his card or request a new one"
+        },
+        {
+            "diagnostic": "Expired Password",
+            "solution": "Request user to change his password"
+        }
+    ]

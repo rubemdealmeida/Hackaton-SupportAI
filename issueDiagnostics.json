@@ -1,0 +1,18 @@
+    [
+        {
+            "issue": "Can't log in",
+            "diagnostic": "User is Registered?"
+        },
+        {
+            "issue": "Can't log in",
+            "diagnostic": "Expired Password?"
+        },
+        {
+            "issue": "Card Denied",
+            "diagnostic": "card without balance?"
+        },
+        {
+            "issue": "Card Denied",
+            "diagnostic": "card is disabled?"
+        }
+    ]

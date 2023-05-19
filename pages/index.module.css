@@ -34,7 +34,7 @@
   line-height: 40px;
   font-weight: bold;
   color: #202123;
-  margin: 16px 0 40px;
+  margin: 0 0 40px;
 }
 .main form {
   display: flex;
@@ -42,7 +42,7 @@
   width: 320px;
 }
 .main input[type="text"] {
-  padding: 12px 16px;
+  padding: 0 16px;
   border: 1px solid #10a37f;
   border-radius: 4px;
   margin-bottom: 24px;
@@ -64,4 +64,10 @@
 .main .result {
   font-weight: bold;
   margin-top: 40px;
+}
+
+.messages {
+  border-width: 10px;
+  border-radius: 6;
+  border-color: black;
 }
